@@ -1,4 +1,10 @@
-﻿Imports System.Windows.Forms.VisualStyles.VisualStyleElement
+﻿'Xavier Hoskins
+'RCET 0265
+'Fall 2022
+'Roll of the Dice - List Box
+'https://github.com/hoskxavi/RollOfTheDice-ListBox.git
+
+Imports System.Windows.Forms.VisualStyles.VisualStyleElement
 
 Public Class RollOfTheDiceForm
 
